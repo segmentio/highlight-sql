@@ -1,0 +1,9 @@
+{
+  "name": "highlight-sql",
+  "version": "0.0.1",
+  "repo": "segmentio/highlight-sql",
+  "description": "A Highlight plugin for SQL.",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "dependencies": {}
+}
